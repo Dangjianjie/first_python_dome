@@ -2,7 +2,7 @@ import time
 import numpy as np
 from utils import DataWriter
 
-#定义函数
+#数据库接口
 cisco_writer = DataWriter()
 
 # CPU使用率、内存利用率、
